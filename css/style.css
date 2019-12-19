@@ -4,3 +4,11 @@ body {
   margin: 0;
   background-color: aliceblue;
 }
+
+/*Global */
+.container {
+  width: 80%;
+  margin: auto;
+  overflow: hidden;
+}
+
