@@ -50,3 +50,8 @@ header #branding h1 {
 header nav {
   float: right;  
 }
+
+header .highlight, header .current a {
+  color: #1120a0;
+  font-weight: bold;
+}
