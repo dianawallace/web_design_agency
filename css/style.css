@@ -12,6 +12,15 @@ body {
   overflow: hidden;
 }
 
+.button_1 {
+  height: 38px;
+  background: #16374b;
+  border: none;
+  padding-left: 20px;
+  padding-right: 20px;
+  color: #ffffff;
+}
+
 /* Header */
 header {
   background: #4e8eb6;
@@ -80,6 +89,7 @@ header a:hover {
   font-size: 20px;
 }
 
+/* Newsletter */
 #newsletter {
   padding: 15px;
   color: #ffffff;
