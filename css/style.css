@@ -85,3 +85,13 @@ header a:hover {
   color: #ffffff;
   background: #4e8eb6
 }
+
+#newsletter h1 {
+  float: left;
+}
+
+#newsletter form {
+  float: right;
+  margin-top: 15px;
+}
+
