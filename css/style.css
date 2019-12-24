@@ -122,3 +122,14 @@ header a:hover {
   width: 30%;
   padding: 10px;
 }
+
+#boxes .box img {
+  width: 90px;
+}
+
+footer {
+  padding: 20px;
+  margin-top: 20px;
+  color: #ffffff;
+  background-color: #4e8eb6; 
+}
