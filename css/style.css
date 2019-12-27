@@ -21,6 +21,14 @@ body {
   color: #ffffff;
 }
 
+.dark {
+  padding: 15px;
+  background: #4e8eb6;
+  color: #ffffff;
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+
 /* Header */
 header {
   background: #4e8eb6;
