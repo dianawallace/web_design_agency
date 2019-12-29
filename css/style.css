@@ -142,6 +142,11 @@ aside#sidebar {
   margin-top: 10px;
 }
 
+aside#sidebar .quote input, aside#sidebar .quote textarea {
+  width: 90%;
+  padding: 5px;
+}
+
 /* Main-col */
 article#main-col {
   float: left;
