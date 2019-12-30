@@ -172,3 +172,17 @@ footer {
   background-color: #4e8eb6; 
 }
 
+/* Media Queries */
+@media(max-width: 768px) {
+  header #branding,
+  header nav,
+  header nav li {
+    float: none;
+    text-align: center;
+    width: 100%;
+  }
+
+  header h1 {
+    padding-bottom: 10px;
+  }
+}
