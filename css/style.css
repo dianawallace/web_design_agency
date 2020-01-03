@@ -187,6 +187,10 @@ footer {
     width: 100%;
   }
 
+  ul {
+    padding: 0;
+  }
+
   header h1 {
     padding-bottom: 10px;
   }
